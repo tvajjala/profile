@@ -1,0 +1,135 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Thiru Vajjala
+    tagline: Principal Engineer at Oracle
+    avatar: profile.gif  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: tvajjala@gmail.com
+    timezone: America/Chicago Timezone
+    website: codergists.blogspot.com #do not add http://
+    linkedin: tvajjala
+    github: tvajjala
+    twitter: '@thiru_vajjala'
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Telugu
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Reading
+          link:
+
+        - item: Table Tennies
+          link:
+
+        - item: Movies
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Experienced Software Developer adept in bringing forth expertise in design, developing, testing and maintenance of reliable,scalable distributed systems.  
+      Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+
+education:
+    title: Education
+    info:
+      - degree: Bachelors in Electronics
+        university: JNTU-Hyderabad
+        time: 2002 - 2006
+        details: |
+          Bachelors in electronics and communication engineering from JNTH University.
+
+experiences:
+    title: Experiences
+    info:
+      - role: Principal Engineer
+        time: MAR 2020 - Present
+        company: Oracle, Austin
+        details: |
+          Working as a Principal Engineer in FusionApps Storage Team. 
+          Contributed different projects in FusionApps Storage Team.
+            - Automated Gen1 buil process using Jenkins CI/CD Pipeline
+            - Design developing volume orchestration and validation frameworks.
+            - Customer onboarding workflows using dropwizard framework.
+            - Shepherd/Terraform Plugin development using GoLang
+
+      - role:  Development Lead - AVP
+        time: JAN 2019 - MAR 2020
+        company: Barclays, Whippany
+        details: |
+          Worked as a Development Lead in a Fraud Detection Team.  
+          Involved in development of various micro-services to automate chargeback and fraud detection functionality.
+            - Design development of business rule engine using Drools
+            - Chargeback micro service development and addressed performance issues.
+      - role: Lead Consultant
+        time: MAR 2017 - DEC 2018
+        company: PNC Bank, Pittsburgh
+        details: |
+          Worked as a Lead Consultant in OpenAPI Team. Involved in development of OpenAPI micro-services for their customers.
+             - Developing microservice based applications using SpringBoot
+             - Deploying and maintaining cloud native applications using Docker & K8s
+certifications:
+      title: Certifications
+      list:
+        - name: OCI 2023 Certified Security Professional
+          start: Aug 2023
+          end: Aug 2025
+          organization: Oracle Inc
+          credentialurl: https://catalog-education.oracle.com/pls/certview/sharebadge?id=016A59A8097CCCF56BC0AA54CC7CDBA4F548AA7E8C712B788153DB5DEBCAEA1D
+          credentialname: OCI CSP
+          details: |
+            Oracle Cloud Infrastructure 2023 Security Professional certification is a Hands-on Performance based exam comprising of hands-on challenges and multiple choice questions. 
+            The Oracle Cloud ​Infrastructure Security ​certification is intended for ​professionals who are ​responsible for security in ​their Oracle Cloud ​Infrastructure environments. 
+            ​The target candidate should ​have 2+ years of experience ​in designing and implementing ​security solutions. 
+            ​Additionally, the ​candidate should have 6 ​months or more of hands-on ​experience in securing ​workloads on OCI.
+
+        - name: OCI 2023 Certified Architect Associate
+          start: Aug 2023
+          end: Aug 2025
+          organization: Oracle Inc
+          credentialurl: https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD83460FDC725FC0C4E92F24158042F9E6699B2AAC7FDF4244935A83690E299C
+          credentialname: OCI CAA
+          details: |
+            The Oracle Cloud Infrastructure 2023 Architect Associate exam is designed for individuals who possess a strong foundational knowledge of architecting infrastructure using Oracle Cloud Infrastructure (OCI) services. 
+            This certification validates a deep understanding of topics such as Identity and Access Management, Networking, Compute, Storage, Security and Observability & Management. 
+            This certification provides a competitive edge in the industry and is available to all candidates. Up-to-date OCI training and hands-on experience are recommended.
+
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Java 
+        level: 98%
+      - name: Python3
+        level: 60%
+      - name: GoLang
+        level: 40%
+      - name: Spring Boot
+        level: 80%
+      - name: Shell Scripting
+        level: 80%
+      - name: TDD
+        level: 80%
+      - name: Terraform
+        level: 60%
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Thiru Vajjala</a>
