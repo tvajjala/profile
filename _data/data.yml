@@ -31,29 +31,34 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Reading
-          link:
+        - item: Blogging
+          link: https://codergists.blogspot.com/
 
-        - item: Table Tennis
-          link:
+        - item: Open Source Contribution
+          link: https://github.com/tvajjala
 
-        - item: Movies
+        - item: Sports
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Software Developer adept in bringing forth expertise in design, developing, testing and maintenance of reliable,scalable distributed systems.  
-      Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+       I am an experienced Software Developer adept at bringing forth expertise in design, development, testing and maintaining of reliable, highly scalable distributed systems. 
+       
+       Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+       
+       Solid understanding of algorithms and system design concepts help to architect highly scalable distributed systems.
+      
+       Strong People skills helps to build trust among team members and manage professional relationships.
 
 education:
     title: Education
     info:
       - degree: Bachelors in Electronics
-        university: JNTU-Hyderabad
+        university: JNT University-Hyderabad
         time: 2002 - 2006
         details: |
-          Bachelors in electronics and communication engineering from JNTH University.
+          Bachelors in electronics and communication engineering from JNT University.
 
 experiences:
     title: Experiences
@@ -63,27 +68,38 @@ experiences:
         company: Oracle, Austin
         details: |
           Working as a Principal Engineer in FusionApps Storage Team. 
-          Contributed different projects in FusionApps Storage Team.
-            - Automated Gen1 buil process using Jenkins CI/CD Pipeline
-            - Design developing volume orchestration and validation frameworks.
-            - Customer onboarding workflows using dropwizard framework.
-            - Shepherd/Terraform Plugin development using GoLang
+          Contributed different projects in FusionApps Storage Team that helps to produce block volumes.
+            - Build automation using Jenkins CI/CD Pipelines.
+            - Design and development of volume creation and validation frameworks.
+            - SFaaS Customer OnBoarding workflows implementation.
+            - Automated Customer OnBoarding process using Shepherd/Terraform Provider.
+            - ProtoTyping and implementing algorithms that helps to improve developers efficiency.
+        technologies: |
+          Java, Python, GoLang, Shell, DropWizard, TDD, Shepherd, Jenkins, OCI.
 
       - role:  Development Lead - AVP
         time: JAN 2019 - MAR 2020
         company: Barclays, Whippany
         details: |
-          Worked as a Development Lead in a Fraud Detection Team.  
-          Involved in development of various micro-services to automate chargeback and fraud detection functionality.
-            - Design development of business rule engine using Drools
-            - Chargeback micro service development and addressed performance issues.
+          Worked as a Development Lead in a Fraud Detection Team. Played Major role in converting monolithic application into micro-service based architecture.
+            - Architected highly reliable distributed micro-services that reduces latency and improves response time.
+            - Converted monolithic application into different micro-services.
+            - Implemented Business rules engine micro-service using Drools.
+            - Automated Chargeback process with different associations(VISA/MasterCard).
+            - Leading and Mentoring small and medium size Teams.
+        technologies: |
+          Java, SpringBoot, Drools, Swagger, Docker , Kubernetes, REST, SOAP, Cassandra, Raft Consensus
+
       - role: Lead Consultant
         time: MAR 2017 - DEC 2018
         company: PNC Bank, Pittsburgh
         details: |
-          Worked as a Lead Consultant in OpenAPI Team. Involved in development of OpenAPI micro-services for their customers.
-             - Developing microservice based applications using SpringBoot
-             - Deploying and maintaining cloud native applications using Docker & K8s
+          Worked as a Lead Consultant in OpenAPI Team. Involved in development of OpenAPI micro-services for PNCBank Customers.
+             - Developing different micro-services based applications using SpringBoot.
+             - Deploying and maintaining cloud native applications using Docker & K8s.
+        technologies: |
+          Java, SpringBoot, Swagger, Docker, Kubernetes, Spock, TDD, gRPC, REST,SOAP
+
 certifications:
       title: Certifications
       list:
@@ -135,8 +151,6 @@ skills:
         level: 60%
       - name: Jenkins
         level: 60%
-      - name: Jenkins
-        level: 60%
       - name: Rest API
         level: 80%
       - name: gRPC
@@ -145,5 +159,7 @@ skills:
         level: 80%
       - name: Kubernetes
         level: 60%
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="#" target="_blank" rel="nofollow">Thiru Vajjala</a>
+      - name : Distributed Systems Concepts(Raft/Paxo/Version Vectors/Sharding/Replicas)
+        level : 80%
+      - name: System Design
+        level: 80%
