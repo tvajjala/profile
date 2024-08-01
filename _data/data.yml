@@ -14,11 +14,10 @@ sidebar:
 
     # Sidebar links
     email: tvajjala@gmail.com
-    timezone: America/Chicago Timezone
-    website: codergists.blogspot.com #do not add http://
+    website: tvajjala.github.io/ #do not add http://
     linkedin: tvajjala
     github: tvajjala
-    twitter: '@thiru_vajjala'
+    pdf: 'resume.pdf'
 
     languages:
       title: Languages
@@ -35,7 +34,7 @@ sidebar:
         - item: Reading
           link:
 
-        - item: Table Tennies
+        - item: Table Tennis
           link:
 
         - item: Movies
@@ -92,24 +91,27 @@ certifications:
           start: Aug 2023
           end: Aug 2025
           organization: Oracle Inc
-          credentialurl: https://catalog-education.oracle.com/pls/certview/sharebadge?id=016A59A8097CCCF56BC0AA54CC7CDBA4F548AA7E8C712B788153DB5DEBCAEA1D
-          credentialname: OCI CSP
+          credentialurl: catalog-education.oracle.com/pls/certview/sharebadge?id=016A59A8097CCCF56BC0AA54CC7CDBA4F548AA7E8C712B788153DB5DEBCAEA1D
+          credentialname: 1Z0-1104-23
           details: |
             Oracle Cloud Infrastructure 2023 Security Professional certification is a Hands-on Performance based exam comprising of hands-on challenges and multiple choice questions. 
-            The Oracle Cloud ​Infrastructure Security ​certification is intended for ​professionals who are ​responsible for security in ​their Oracle Cloud ​Infrastructure environments. 
-            ​The target candidate should ​have 2+ years of experience ​in designing and implementing ​security solutions. 
-            ​Additionally, the ​candidate should have 6 ​months or more of hands-on ​experience in securing ​workloads on OCI.
 
+        - name: OCI 2023 Certified Developer Professional
+          start: Aug 2023
+          end: Aug 2025
+          organization: Oracle Inc
+          credentialurl: catalog-education.oracle.com/pls/certview/sharebadge?id=5C5B0BC74A64AE5CAC118E0E38BF294CD27B609001E2255CB87BE552907FC4C9
+          credentialname: 1Z0-1084-23
+          details: |
+            An Oracle Cloud Infrastructure (OCI) 2023 Certified Developer Professional has demonstrated an understanding of cloud-native fundamentals and knowledge of developing, securing, testing, and operating applications in OCI.
         - name: OCI 2023 Certified Architect Associate
           start: Aug 2023
           end: Aug 2025
           organization: Oracle Inc
-          credentialurl: https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD83460FDC725FC0C4E92F24158042F9E6699B2AAC7FDF4244935A83690E299C
-          credentialname: OCI CAA
+          credentialurl: catalog-education.oracle.com/pls/certview/sharebadge?id=CD83460FDC725FC0C4E92F24158042F9E6699B2AAC7FDF4244935A83690E299C
+          credentialname: 1Z0-1072-23
           details: |
             The Oracle Cloud Infrastructure 2023 Architect Associate exam is designed for individuals who possess a strong foundational knowledge of architecting infrastructure using Oracle Cloud Infrastructure (OCI) services. 
-            This certification validates a deep understanding of topics such as Identity and Access Management, Networking, Compute, Storage, Security and Observability & Management. 
-            This certification provides a competitive edge in the industry and is available to all candidates. Up-to-date OCI training and hands-on experience are recommended.
 
 
 
@@ -130,6 +132,18 @@ skills:
       - name: TDD
         level: 80%
       - name: Terraform
+        level: 60%
+      - name: Jenkins
+        level: 60%
+      - name: Jenkins
+        level: 60%
+      - name: Rest API
+        level: 80%
+      - name: gRPC
+        level: 40%
+      - name: Docker
+        level: 80%
+      - name: Kubernetes
         level: 60%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Thiru Vajjala</a>
