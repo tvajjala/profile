@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: tvajjala@gmail.com
-    website: tvajjala.github.io/ #do not add http://
+    website: tvajjala.github.io #do not add http://
     linkedin: tvajjala
     github: tvajjala
     pdf: 'resume.pdf'
@@ -146,4 +146,4 @@ skills:
       - name: Kubernetes
         level: 60%
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Thiru Vajjala</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="#" target="_blank" rel="nofollow">Thiru Vajjala</a>
