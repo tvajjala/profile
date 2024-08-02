@@ -17,28 +17,17 @@ sidebar:
     website: tvajjala.github.io #do not add http://
     linkedin: tvajjala
     github: tvajjala
-    pdf: 'resume.pdf'
+    pdf: 'Resume.pdf'
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Telugu
-          level: Native
-
-        - idiom: English
-          level: Professional
 
     interests:
-      title: Interests
+      title: Strengths
       info:
-        - item: Blogging
-          link: https://codergists.blogspot.com/
+        - item: Effective Communication
 
-        - item: Open Source Contribution
-          link: https://github.com/tvajjala
+        - item: Strategic Problem Solving
 
-        - item: Sports
-          link:
+        - item: Adaptability and Flexibility
 
 career-profile:
     title: Career Profile
