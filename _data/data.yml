@@ -100,6 +100,25 @@ experiences:
         technologies: |
           Java, SpringBoot, Swagger, Docker, Kubernetes, Spock, TDD, gRPC, REST,SOAP
 
+      - role: Principal Engineer
+        time: MAR 2014 - Mar 2017
+        company: Innominds, India
+        details: |
+          Worked as a Principal Engineer and involved in driving various customer specific projects.
+             - Worked as Lead Engineer in Lyris - Email Campaign application 
+             - Worked as Lead Engineer in Redpine Signals - IOT Platform based application
+        technologies: |
+          Java, SpringBoot, Swagger, Docker, TDD, REST,SOAP
+
+      - role: Associate Architect
+        time: Jan 2010 - Mar 2014
+        company: Adaequare, India
+        details: |
+          Worked as a Associate Architect and involved in driving various customer specific projects.
+             - Worked as Lead Engineer in TriaBeauty - Ecommerce based application
+        technologies: |
+          Java, Spring, Swagger, TDD, REST, SOAP, Hybris
+
 certifications:
       title: Certifications
       list:
