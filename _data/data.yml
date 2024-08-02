@@ -43,13 +43,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       I am an experienced Software Developer adept at bringing forth expertise in design, development, testing and maintaining of reliable, highly scalable distributed systems. 
+      Experienced Software Engineer  adept in bringing forth expertise in design, develop, test and maintaining of reliable, scalable distributed systems.  
+      Able to effectively self-manage during independent projects, as well as lead and collaborate as part of a productive team.
        
-       Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
-       
-       Solid understanding of algorithms and system design concepts help to architect highly scalable distributed systems.
-      
-       Strong People skills helps to build trust among team members and manage professional relationships.
 
 education:
     title: Education
@@ -59,6 +55,24 @@ education:
         time: 2002 - 2006
         details: |
           Bachelors in electronics and communication engineering from JNT University.
+
+
+oss:
+  title: Strengths
+  contributions:
+    - title: Effective Communication
+      link: "#"
+      tagline: "Excellent communication skills demonstrated through facilitating workshops, active listening and resolving conflict resulting in increased team collaboration."
+
+    - title: Strategic Problem Solving
+      link: "#"
+      tagline: "Proven ability to analyze and solve complex problems and implement innovative solutions resulting in cost savings and efficiency gains."
+
+    - title: Adaptability and Flexibility
+      link: "#"
+      tagline: "Ability to thrive in fast-paced environments, adapting to changing priorities while maintaining a positive attitude resulting in successful project completion and team success."
+
+
 
 experiences:
     title: Experiences
@@ -149,7 +163,6 @@ certifications:
             The Oracle Cloud Infrastructure 2023 Architect Associate exam is designed for individuals who possess a strong foundational knowledge of architecting infrastructure using Oracle Cloud Infrastructure (OCI) services. 
 
 
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -164,7 +177,7 @@ skills:
         level: 80%
       - name: Shell Scripting
         level: 80%
-      - name: TDD
+      - name: Test Driven Development
         level: 80%
       - name: Terraform
         level: 60%
@@ -178,7 +191,7 @@ skills:
         level: 80%
       - name: Kubernetes
         level: 60%
-      - name : Distributed Systems Concepts(Raft/Paxo/Version Vectors/Sharding/Replicas)
+      - name : Distributed Systems Concepts
         level : 80%
       - name: System Design
         level: 80%
