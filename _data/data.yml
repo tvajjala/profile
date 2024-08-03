@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.gif  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: tvajjala@gmail.com
+    #email: tvajjala@gmail.com
     website: tvajjala.github.io #do not add http://
     linkedin: tvajjala
     github: tvajjala
@@ -154,30 +154,20 @@ skills:
 
     toolset:
       - name: Java 
-        level: 98%
-      - name: Python3
+        level: 80%
+      - name: Python3, GoLang,Shell
+        level: 50%
+      - name: Springboot,Dropwizard
+        level: 80%
+      - name: JUnit, TDD, Spock
+        level: 80%
+      - name: DevOps, Jenkins, Terraform
         level: 60%
-      - name: GoLang
+      - name: Rest, SOAP
+        level: 80%
+      - name: GraphQL, gRPC
         level: 40%
-      - name: Spring Boot
-        level: 80%
-      - name: Shell Scripting
-        level: 80%
-      - name: Test Driven Development
-        level: 80%
-      - name: Terraform
+      - name: Docker, Kubernetes
         level: 60%
-      - name: Jenkins
-        level: 60%
-      - name: Rest API
-        level: 80%
-      - name: gRPC
-        level: 40%
-      - name: Docker
-        level: 80%
-      - name: Kubernetes
-        level: 60%
-      - name : Distributed Systems Concepts
-        level : 80%
-      - name: System Design
-        level: 80%
+      - name : Distributed Systems Design
+        level : 70%
