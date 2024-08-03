@@ -149,6 +149,22 @@ certifications:
             The Oracle Cloud Infrastructure 2023 Architect Associate exam is designed for individuals who possess a strong foundational knowledge of architecting infrastructure using Oracle Cloud Infrastructure (OCI) services. 
 
 
+publications:
+  title: Technical Writings
+  intro: |
+    Here are some of the interesting articles that i have published in recent times.
+  papers:
+    - title: Data Obfuscation using JSON WebTokens
+      link: "https://www.slideshare.net/slideshow/json-web-tokens-236480670/236480670"
+    - title: Building Cross Platform Docker Images
+      link: "https://codergists.blogspot.com/2023/05/building-cross-platform-docker.html"
+    - title: Parcel Boundary Implementation
+      link: "https://codergists.blogspot.com/2013/02/parcel-boundary-implementation-for.html"
+    - title: Deeper Look at how Multipart Works
+      link: "https://codergists.blogspot.com/2015/01/deeper-look-of-multipart-file-upload.html"
+    - title: Network Subnet Calculator Algorithm
+      link: "https://codergists.blogspot.com/2023/05/network-subnet-calculator.html"
+
 skills:
     title: Skills &amp; Proficiency
 
