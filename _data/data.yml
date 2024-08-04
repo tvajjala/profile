@@ -72,7 +72,7 @@ experiences:
         time: MAR 2020 - Present
         company: Oracle, Austin
         details: |
-          Working as a Principal Engineer in FusionApps Storage Team. 
+          Working as a Principal Engineer in  FusionApps Storage Team. 
           Collaborated with cross-functional teams and key stakeholders to gather requirements and design robust solutions.
             - Automating build process(build/deploy/test) using Jenkins CI/CD Pipelines.
             - Design and development of volume creation and validation frameworks.
@@ -86,7 +86,7 @@ experiences:
         time: JAN 2019 - MAR 2020
         company: Barclays, Whippany
         details: |
-          Worked as a Development Lead in a Fraud Detection Team. Played Major role in converting monolithic application into micro-service based architecture.
+          Led Chargeback and Fraud Detection modules.  Migrated monolithic applications into cloud-native microservices and  automated chargeback and fraud detection by interacting with associations(VISA/MasterCard).
             - Architected highly reliable distributed micro-services that reduces latency and improves response time.
             - Converted monolithic application into different micro-services.
             - Implemented Business rules engine micro-service using Drools.
@@ -99,8 +99,9 @@ experiences:
         time: MAR 2017 - DEC 2018
         company: PNC Bank, Pittsburgh
         details: |
-          Worked as a Lead Consultant in OpenAPI Team. Involved in development of OpenAPI micro-services for PNCBank Customers.
-             - Developing different micro-services based applications using SpringBoot.
+          Worked as a Lead Consultant in OpenAPI Team. Involved in design and development of OpenAPI microservices using cutting edge technologies.
+             - Developed RESTFul APIs microservices by writing adaptor layers of their legacy system.
+             - Improve performance of their services by applying distributed system concepts. 
              - Deploying and maintaining cloud native applications using Docker & K8s.
         technologies: |
           Java, SpringBoot, Swagger, Docker, Kubernetes, Spock, TDD, gRPC, REST,SOAP
@@ -110,7 +111,7 @@ experiences:
         company: Innominds, India
         details: |
           Worked as a Principal Engineer and involved in driving various customer specific projects.
-             - Worked as Lead Engineer in Lyris - Email Campaign application 
+             - Worked as Lead Engineer in Lyris - Email Campaign service 
              - Worked as Lead Engineer in Redpine Signals - IOT Platform based application
         technologies: |
           Java, SpringBoot, Swagger, Docker, TDD, REST,SOAP
