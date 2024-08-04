@@ -23,17 +23,21 @@ sidebar:
     interests:
       title: Strengths
       info:
-        - item: Effective Communication
+        - item: Leadership
 
         - item: Strategic Problem Solving
 
         - item: Adaptability and Flexibility
 
+        - item: Continuous Learning
+
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Software Engineer  adept in bringing forth expertise in design, develop, test and maintaining of reliable, scalable distributed systems.  
+      Experienced Software Engineer  adept in bringing forth expertise in design, develop, testing and maintaining of reliable, scalable distributed systems.  
+      Proven track record of successfully solving complex problems and delivering quality software solutions.
       Able to effectively self-manage during independent projects, as well as lead and collaborate as part of a productive team.
+      
        
 
 education:
@@ -49,8 +53,8 @@ education:
 oss:
   title: Strengths
   contributions:
-    - title: Effective Communication
-      tagline: "Excellent communication skills demonstrated through facilitating workshops, active listening and resolving conflict resulting in increased team collaboration."
+    - title: Leadership
+      tagline: "Working with cross-functional teams in the successful delivery of complex projects, demonstrating strong leadership skills, effective communication, the ability to motivate and guide team members."
 
     - title: Strategic Problem Solving
       tagline: "Proven ability to analyze and solve complex problems and implement innovative solutions resulting in cost savings and efficiency gains."
@@ -58,7 +62,8 @@ oss:
     - title: Adaptability and Flexibility
       tagline: "Ability to thrive in fast-paced environments, adapting to changing priorities while maintaining a positive attitude resulting in successful project completion and team success."
 
-
+    - title: Continuous Learning
+      tagline: "Passionate about staying up-to-date with the latest technologies and industry trends. Actively pursed professional development opportunities, including certifications and courses, to expand technical expertise and bring valuable insights and fresh ideas to projects."
 
 experiences:
     title: Experiences
@@ -68,8 +73,8 @@ experiences:
         company: Oracle, Austin
         details: |
           Working as a Principal Engineer in FusionApps Storage Team. 
-          Contributed different projects in FusionApps Storage Team that helps to produce block volumes.
-            - Build automation using Jenkins CI/CD Pipelines.
+          Collaborated with cross-functional teams and key stakeholders to gather requirements and design robust solutions.
+            - Automating build process(build/deploy/test) using Jenkins CI/CD Pipelines.
             - Design and development of volume creation and validation frameworks.
             - SFaaS Customer OnBoarding workflows implementation.
             - Automated Customer OnBoarding process using Shepherd/Terraform Provider.
