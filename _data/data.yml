@@ -175,21 +175,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java 
+      - name: Java, Python3, GoLang, Shell
         level: 80%
-      - name: Python3, GoLang,Shell
-        level: 50%
       - name: Springboot,Dropwizard
         level: 80%
       - name: JUnit, TDD, Spock
         level: 80%
       - name: DevOps, Jenkins, Terraform
         level: 60%
-      - name: Rest, SOAP
+      - name: Rest, SOAP, GraphQL, gRPC
         level: 80%
-      - name: GraphQL, gRPC
-        level: 40%
-      - name: Docker, Kubernetes
+      - name: Docker, Kubernetes, KinD, Colima, Rancher
         level: 60%
       - name : Distributed Systems Design
         level : 70%
